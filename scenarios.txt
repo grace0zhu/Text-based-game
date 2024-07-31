@@ -1,0 +1,28 @@
+// Grayon Zhu 7/31/24
+// Scenarios
+
+Scenario Uno:
+
+  You open your eyes to see light filtering through a thick, lush canopy of banana trees. 
+  The jungle ground is getting warmer, and you can't remember how you got there. 
+  You thought you bropught your phone, but you can't find anything.
+  To your right is a half-full bottle of Crown Royale Apple, and a huge pair of gardening scissors.
+  
+  (A): pick up the Crown Royale Apple
+  (B): pick up the gardening scissors
+  (C): pick up both 
+  
+  // point system
+  // each player starts with 
+  // 0 technological points
+  // 10 medical points
+  // 50 psychological wellness points
+  // 75 combat points
+  // 100 stamina points
+  
+  // if (A) then add +5 to medical and subtract -5 to psychological wellness
+  // if (B) then add +10 to technological
+  // subtract -5 from stamina for (A) or (B) and if (C) subtract 10
+
+
+Scenario Dos:
