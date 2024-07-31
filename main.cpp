@@ -15,8 +15,8 @@ int main() {
     cout << "the fate of the entire world! Bahahahahaha!!!!!"; endl;
     cout << "Choose your player name now: "; endl;
     getline (cin, name);
-
-  
+    cout << "Welcome, " << name  << ", " << "your destiny awaits...";
+    
   
     return 0;
 }
