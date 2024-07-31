@@ -26,3 +26,17 @@ Scenario Uno:
 
 
 Scenario Dos:
+
+  You keep walking through the forest, and luckily, you stumble across someone's t-shirt. 
+  Your mom taught you how to make a bag out of a shirt so you put your items in the t-shirt bag. 
+  You hear water flowing in the distance. Vines and branches hang so thick you can't tell
+  if the jungle ever ends.
+  
+  (A): collect wood and plants to make a shelter
+  (B): hike to water
+  
+  // if (A) then subtract -50 from stamina but add +50 to technological and +20 to psychological wellness
+  // if (B) subtract -20 from stamina, +10 to psychological wellness
+
+    Scenario Dos.A:
+    Scenario Dos.B:
