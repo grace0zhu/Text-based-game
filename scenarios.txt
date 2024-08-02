@@ -38,5 +38,3 @@ Scenario Dos:
   // if (A) then subtract -50 from stamina but add +50 to technological and +20 to psychological wellness
   // if (B) subtract -20 from stamina, +10 to psychological wellness
 
-    Scenario Dos.A:
-    Scenario Dos.B:
